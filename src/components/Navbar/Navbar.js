@@ -23,7 +23,7 @@ const Navbar = () => {
             </div>
             <div className='profile'>
                 <div className='left'>
-                    <p>Samantha <br /> <span style={{
+                    <p className='p'>Samantha <br /> <span style={{
                         color: '#828282'
                     }}> Peterdraw.co </span></p>
                     {/* <p></p> */}
